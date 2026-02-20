@@ -40,33 +40,21 @@ I’m a software engineer building **scalable systems** and **AI-assisted produc
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eshwaran-krishnan&show_icons=true&theme=default" alt="GitHub Stats" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eshwaran-krishnan&theme=default" alt="Streak Stats" width="48%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshwarankrishnan&layout=compact&theme=default" alt="Top Languages" width="400"/>
-</p>
+---
+
+Check back here later, gotta fix this page
 
 ---
 
-## 🚀 Project Highlights
-
-| Project | Description |
-| :--- | :--- |
-| **`project-one`** | Brief one-line description of your impact or tech stack. |
-| **`project-two`** | Brief one-line description of your impact or tech stack. |
-| **`project-three`** | Brief one-line description of your impact or tech stack. |
-
----
-
-## 📚 Currently Learning
-* **Scalable ML Infrastructure:** Exploring how to deploy models at scale.
-* **Transformer Architectures:** Deep diving into production workflows for LLMs.
+## Good reads (I am reading these rn)
+* Thinking, Fast and Slow by Daniel Kahneman
+* Siddhartha by Hermann Hesse
 
 ---
 
 ## 💡 Interests
 * Reading tech and research blogs.
-* Contributing to open source.
-* Building tools that automate developer workflows.
+* Vibe coding :D
