@@ -40,8 +40,11 @@ I’m a software engineer building **scalable systems** and **AI-assisted produc
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eshwaran-krishnan&theme=default" alt="Streak Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eshwaran-krishnan&theme=default&hide_border=false&cache_seconds=86400" 
+       alt="Eshwaran's GitHub Streak" 
+       width="400" />
 </p>
+
 
 ---
 
