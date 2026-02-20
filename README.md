@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Eshwaran Krishnan
 **Software Engineer | AI & Systems Enthusiast** 📍 San Francisco Bay Area  
-🔗 [LinkedIn](https://linkedin.com/in/eshwaran-krishnan) | [GitHub](https://github.com/eshwarankrishnan) | 📧 [hello@eshwaran.dev](mailto:hello@eshwaran.dev)
+🔗 [LinkedIn](https://linkedin.com/in/eshwaran-krishnan) | [GitHub](https://github.com/eshwaran-krishnan)
 
 ---
 
@@ -40,8 +40,8 @@ I’m a software engineer building **scalable systems** and **AI-assisted produc
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eshwarankrishnan&show_icons=true&theme=default" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eshwarankrishnan&theme=default" alt="Streak Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=eshwaran-krishnan&show_icons=true&theme=default" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eshwaran-krishnan&theme=default" alt="Streak Stats" width="48%"/>
 </p>
 
 <p align="center">
